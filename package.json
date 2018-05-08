@@ -1,0 +1,29 @@
+{
+  "name": "logdown",
+  "version": "1.0.0",
+  "description": "library to log req and request by the user in .json file and can be configured to compress it as you like and can be used as a middleware in frameworks like express sail etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolgi1401/logdown.git"
+  },
+  "keywords": [
+    "logger",
+    "'request",
+    "log'",
+    "\"response",
+    "log\"",
+    "\"compress",
+    "log",
+    "files\""
+  ],
+  "author": "anmol gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anmolgi1401/logdown/issues"
+  },
+  "homepage": "https://github.com/anmolgi1401/logdown#readme"
+}
