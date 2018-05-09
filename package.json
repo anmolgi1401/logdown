@@ -1,5 +1,5 @@
 {
-  "name": "logdown",
+  "name": "logdownfiles",
   "version": "1.0.0",
   "description": "a midleware library to log every request and response of the user in seprate log files",
   "main": "index.js",
